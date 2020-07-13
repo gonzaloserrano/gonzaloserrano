@@ -1,3 +1,3 @@
 <a href="https://www.buymeacoffee.com/gon">🔥 🧑‍💻☕️ 🔥</a>
 
-<img src="https://user-images.githubusercontent.com/349328/87293308-67c82d80-c502-11ea-8292-ee4d2f9a3481.png"/>
+<img src="https://user-images.githubusercontent.com/349328/87306827-e4660680-c518-11ea-9135-2a598a128eac.jpg"/>
