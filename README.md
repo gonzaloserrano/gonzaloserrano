@@ -4,3 +4,4 @@
 - SWE at [tetrate.io](https://tetrate.io)
 - Founder at [bcneng.org](https://bcneng.org)
 - Organiser at [Golang Barcelona Meetup](https://www.meetup.com/Golang-Barcelona)
+- My [personal website](https://gon.cat).
