@@ -1,7 +1,6 @@
 # programming clouds ☁️🧑‍💻☕️🔥 
 <img src="https://user-images.githubusercontent.com/349328/167133426-6c8f6d5a-a663-4b97-8323-282ee7518404.png" width=435/>
 
-- SWE at [tetrate.io](https://tetrate.io): building TSB, an application connectivity platform built on top of Istio and Kubernetes.
-- Founder at [bcneng.org](https://bcneng.org), an engineering online community with over 10K sign-ups.
-- Organiser at [Golang Barcelona Meetup](https://www.meetup.com/Golang-Barcelona)
+- SWE at [TigerData](https://www.tigerdata.com/): Tiger Data provides the fastest PostgreSQL platform for real-time, analytical, and agentic applications. We enable developers to build high-performance applications on top of PostgreSQL.
+- Founder at [bcneng.org](https://bcneng.org), an engineering online community with over 15K sign-ups.
 - My [personal website](https://gon.cat)
